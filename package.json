@@ -1,0 +1,15 @@
+{
+  "name": "browser-logger",
+  "version": "1.0.0",
+  "description": "Displays Node.js server-side logs in your browser console.",
+  "main": "lib/browser-logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ethanl/connect-browser-logger.git"
+  },
+  "author": "Ethan L",
+  "license": "BSD"
+}
