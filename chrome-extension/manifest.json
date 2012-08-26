@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Node.js Browser Logger",
+  "description": "An extension for displaying Node.js server-side logs in Chrome's console.",
+  "version": "1.0",
+  "permissions": ["tabs", "http://*/*", "https://*/*"],
+  "background": {"scripts": ["background.js"]},
+  "devtools_page": "devtools.html",
+  "content_scripts": [{
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["content_script.js"]
+   }]
+}
