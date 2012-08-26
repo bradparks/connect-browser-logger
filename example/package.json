@@ -1,0 +1,10 @@
+{
+  "name": "browser-logger-example",
+  "version": "1.0.0",
+  "dependencies": {
+    "connect": "2.x"
+  },
+  "devDependencies": {
+    "browser-logger": "1.x"
+  }
+}
