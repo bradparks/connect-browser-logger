@@ -21,4 +21,6 @@ Finally, install [this Chrome extension](https://chrome.google.com/webstore/deta
 
 Now, messages logged via `console.log()` (and other methods on the `console` object) in your app will display in Chrome's console.
 
-![screenshot](http://i.imgur.com/PvWpR.png "screenshot")
+![screenshot](http://i.imgur.com/fuD1V.png "screenshot")
+
+See the `example` directory for a working example.
